@@ -7,9 +7,12 @@ public class Pessoas {
 	
 	public Pessoas(int idade, boolean comorb, boolean gravPuer) {
 		super();
-		Idade = idade;
+		this.Idade = idade;
 		this.comorb = comorb;
 		this.gravPuer = gravPuer;
+	}
+	public Pessoas() {
+		
 	}
 
 	public int getIdade() {
