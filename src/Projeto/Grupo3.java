@@ -7,13 +7,14 @@ public class Grupo3 extends Pessoas {
 
 	}
 
-	public void dataVacinacao(int idade) {
+	public String dataVacinacao(int idade) {
 		if (idade >= 5 && idade <= 40) {
 			System.out.println("Seu mês de vacinação é Junho de 2021");
+			return null;
 		} else {
 
 			System.out.println("Entre em contato com a Secretaria de Saúde de sua cidade.");
-
+			return null;
 		}
 
 	}
