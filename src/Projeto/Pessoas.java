@@ -16,7 +16,6 @@ public class Pessoas {
 		return Idade;
 	}
 
-
 	public void setIdade(int idade) {
 		Idade = idade;
 	}
