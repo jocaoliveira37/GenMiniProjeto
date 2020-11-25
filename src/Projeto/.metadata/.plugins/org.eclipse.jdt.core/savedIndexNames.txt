@@ -1,0 +1,10 @@
+INDEX VERSION 1.131+D:\Generation\ExercíciosGit\ExerciciosGeneration\ProjetoJava\Exercicios\GenMiniProjeto\src\Projeto\.metadata\.plugins\org.eclipse.jdt.core
+260143001.index
+1428111119.index
+627160557.index
+978272394.index
+3317613278.index
+1131180873.index
+2648560264.index
+3887826982.index
+2097325499.index
