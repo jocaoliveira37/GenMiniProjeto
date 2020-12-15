@@ -1,2 +1,2 @@
 # GenMiniProjeto
-Começando um novo projeto
+Começando um novo projeto do bloco
